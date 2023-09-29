@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "83bA6qYGvkB5siTu8VAj0VW6tYdL7jewzTWYPmrOOeqQQQBBsrIDAOIcIvOvVCFptaMbFW6ILLOYbuILeZ7KYg==",
+  "success": true,
+  "projectFilePath": "B:\\WebApps C Sharp\\patient-product-subs\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timot\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
